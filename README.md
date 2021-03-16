@@ -1,4 +1,4 @@
-# ckeckers
+# Ckeckers Game
 
 ## The `Game` Class
 
